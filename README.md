@@ -30,3 +30,8 @@ The model prints:
 1. main.py --> ML model
 2. data.csv --> dataset
 3. README.md --> documentation
+
+## My Details :
+- Name - Aditya Kaushik
+- Reg no.- 25BAI11246
+- Course Code - CSA2001
